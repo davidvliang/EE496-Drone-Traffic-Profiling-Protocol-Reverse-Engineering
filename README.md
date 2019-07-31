@@ -11,6 +11,7 @@ This script parses the packets .json file and delimits the Mavlink 2.0 message w
  
 ## How to run
 With Anaconda Prompt,
+'''
     # perform update if prompted
      python3 -m pip install --upgrade pip --user
     # install required libraries
@@ -21,7 +22,7 @@ With Anaconda Prompt,
      git clone [LINK]
      cd [DIRECTORY]
      python3 .\data_parser.py
-    
+''' 
 
 
 Developed in JetBrains PyCharm 2019.1.2
