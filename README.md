@@ -1,5 +1,8 @@
 # EE496-Drone-Traffic-Profiling-Protocol-Reverse-Engineering
 
+## DEPRECATED
+New analysis scripts located in private github organization
+
 ## Setup
 Using Wireshark,
 1. decrypt packets with wpa-pwd
